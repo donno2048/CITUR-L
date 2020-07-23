@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_PYGAME_GUI
+	bool "python-pygame-gui"
+	select BR2_PACKAGE_PYTHON_PYGAME
+	help
+	  A GUI module for pygame 2.
+	  https://github.com/MyreMylar/pygame_gui
