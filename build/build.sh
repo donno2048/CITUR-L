@@ -5,5 +5,5 @@ cd buildroot_x86-64
 make BR2_EXTERNAL="$OS/external" "x86-64_defconfig"
 make
 cd $OS
-cp buildroot_x86-64/output/images/rootfs.iso9660 Rosehip_x86-64.iso
-echo "Rosehip_x86-64.iso SUCCESS :)"
+cp buildroot_x86-64/output/images/rootfs.iso9660 Rosehip.iso
+echo "Rosehip.iso SUCCESS :)"
