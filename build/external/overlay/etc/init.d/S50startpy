@@ -1,0 +1,14 @@
+#!/bin/sh
+amixer sset Master unmute
+amixer sset Headphones unmute
+amixer sset Speaker unmute
+amixer sset Master 100%
+mkdir /snakeuser
+mount -t ext4 /dev/disk/by-label/SNAKEUSER /snakeuser
+cd /snakeuser
+while [ 1 ]
+do
+  clear >/dev/tty1
+  printf "Rosehip ready.\n\n" >/dev/tty1
+  PYTHONSTARTUP=/usr/share/Rosehip/startup.py /usr/bin/python3 </dev/tty1 >/dev/tty1 2>&1
+done
