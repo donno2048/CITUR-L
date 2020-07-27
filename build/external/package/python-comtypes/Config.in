@@ -1,0 +1,3 @@
+config BR2_PACKAGE_PYTHON_COMTYPES
+	bool "python-comtypes"
+	select BR2_PACKAGE_PYTHON_PYGAME
