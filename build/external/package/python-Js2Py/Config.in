@@ -1,0 +1,3 @@
+config BR2_PACKAGE_PYTHON_JS2PY
+	bool "python-Js2Py"
+	select BR2_PACKAGE_PYTHON_PYGAME
