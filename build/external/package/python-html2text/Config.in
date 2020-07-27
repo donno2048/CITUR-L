@@ -1,0 +1,2 @@
+config BR2_PACKAGE_PYTHON_HTML2TEXT
+	bool "python-html2text"
