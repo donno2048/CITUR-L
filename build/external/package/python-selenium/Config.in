@@ -1,0 +1,2 @@
+config BR2_PACKAGE_PYTHON_SELENIUM
+	bool "python-selenium"
