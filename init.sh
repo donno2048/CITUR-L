@@ -1,7 +1,7 @@
 sudo apt-get install git-all
 sudo apt-get install mercurial
 wait
-git clone https://github.com/donno2048/Rosehip.git
+git clone -b linux-beta https://github.com/donno2048/Rosehip.git
 cd build/
 set FORCE_UNSAFE_CONFIGURE=1
 env FORCE_UNSAFE_CONFIGURE=1
