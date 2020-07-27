@@ -1,3 +1,2 @@
 config BR2_PACKAGE_PYTHON_CHROMEDRIVER-AUTOINSTALLER
 	bool "python-chromedriver-autoinstaller"
-	select BR2_PACKAGE_PYTHON_PYGAME
