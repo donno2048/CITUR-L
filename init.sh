@@ -10,4 +10,4 @@ set FORCE_UNSAFE_CONFIGURE=1
 env FORCE_UNSAFE_CONFIGURE=1
 export FORCE_UNSAFE_CONFIGURE=1
 wait
-sudo bash ./build.sh x86-64
+sudo bash ./builds.sh x86-64
