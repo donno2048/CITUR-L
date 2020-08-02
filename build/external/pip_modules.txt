@@ -7,5 +7,4 @@ Js2Py
 selenium
 chromedriver-autoinstaller
 html2text
-requests
 opencv-python
