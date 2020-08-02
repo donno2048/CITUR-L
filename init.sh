@@ -8,8 +8,4 @@ git clone https://github.com/donno2048/Rosehip-L.git
 wait
 mv Rosehip-L Rosehip
 cd build/
-set FORCE_UNSAFE_CONFIGURE=1
-env FORCE_UNSAFE_CONFIGURE=1
-export FORCE_UNSAFE_CONFIGURE=1
-wait
 sudo env FORCE_UNSAFE_CONFIGURE=1 bash ./build.sh
