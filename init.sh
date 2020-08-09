@@ -1,5 +1,6 @@
 sudo add-apt-repository universe
 sudo apt-get update
+sudo apt-get install git
 sudo apt-get install git-all
 sudo apt-get install bc
 sudo apt-get install mercurial
