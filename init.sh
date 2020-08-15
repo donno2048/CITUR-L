@@ -7,6 +7,9 @@ sudo apt-get install bc
 sudo apt-get install mercurial
 sudo apt-get install unzip
 sudo apt-get install build-essential
+sudo apt-get install wget
+sudo apt-get install cpio
+sudo apt-get install rsync
 wait
 git clone https://github.com/donno2048/Rosehip-L.git
 wait
