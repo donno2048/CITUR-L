@@ -5,6 +5,7 @@ sudo apt-get install git-all
 sudo apt-get install bc
 sudo apt-get install mercurial
 sudo apt-get install unzip
+sudo dpkg --configure -a
 sudo apt-get install build-essential
 wait
 git clone https://github.com/donno2048/Rosehip-L.git
