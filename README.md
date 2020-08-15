@@ -15,7 +15,9 @@ the windows iso and the linux iso both using the same [setup steps](https://gist
 
 if you're using windows and want to build this iso yourself there is no problem, here are the steps to do it:
 
-1. download and install [docker](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+0. download and install [docker desktop](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+
+1. to check everything is set try running docker desktop
 
 2. create an account at [docker-hub](https://hub.docker.com/signup)
 
