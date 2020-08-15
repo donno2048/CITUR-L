@@ -10,6 +10,7 @@ sudo apt-get install build-essential
 sudo apt-get install wget
 sudo apt-get install cpio
 sudo apt-get install rsync
+sudo apt-get install python3
 wait
 git clone https://github.com/donno2048/Rosehip-L.git
 wait
