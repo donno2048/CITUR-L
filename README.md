@@ -38,3 +38,5 @@ if you're using windows and want to build this iso yourself there is no problem,
 10. run the command `cd CITUR-L/`
 
 11. run the command `yes | sudo bash ./init.sh`
+
+12. use some linux commands to send _Rosehip.iso_ to yourself somehow
