@@ -1,6 +1,4 @@
 pyttsx3
-pywin32
-comtypes
 pygame-gui
 keyboard
 Js2Py
