@@ -1,6 +1,5 @@
 pyttsx3
 pygame-gui
-keyboard
 Js2Py
 selenium
 chromedriver-autoinstaller
