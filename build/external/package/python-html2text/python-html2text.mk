@@ -1,4 +1,4 @@
-PYTHON_HTML2TEXT_SOURCE = text2html-0.0.2.dev0.tar.gz
-PYTHON_HTML2TEXT_SITE = https://files.pythonhosted.org/packages/2f/b7/28076c50fd047eb5f5ec3cd794087744c8e1af35458f913f981fb61a66cf
+PYTHON_HTML2TEXT_SOURCE = c77b580c94d1a9e0145f23cc4472993d
+PYTHON_HTML2TEXT_SITE = https://files.pythonhosted.org/packages/6c/f9/033a17d8ea8181aee41f20c74c3b20f1ccbefbbc3f7cd24e3692de99fb25
 PYTHON_HTML2TEXT_SETUP_TYPE = setuptools
 $(eval $(python-package))
