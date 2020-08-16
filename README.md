@@ -28,3 +28,5 @@ if you're using windows and want to build this iso yourself there is no problem,
 6. run the command `apt-get update && apt-get install tzdata -y && apt-get install git -y && apt-get install sudo -y && git clone https://github.com/donno2048/CITUR-L.git && cd CITUR-L/ && yes | sudo bash ./init.sh` it might ask you to enter your location...
 
 7. use some linux commands to send _Rosehip.iso_ to yourself somehow
+
+see _README-DOCKER.md_ for details of how to build it from my docker image
