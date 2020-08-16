@@ -1,5 +1,0 @@
-config BR2_PACKAGE_PYTHON_PYWIN32
-	bool "python-pywin32"
-	help
-	  A GUI module for pygame 2.
-	  https://github.com/mhammond/pywin32
