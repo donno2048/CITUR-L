@@ -29,4 +29,4 @@ if you're using windows and want to build this iso yourself there is no problem,
 
 7. use some linux commands to send _Rosehip.iso_ to yourself somehow
 
-see _README-DOCKER.md_ for details of how to build it from my docker image
+see _DOCKER.md_ for details of how to build it from my docker image
