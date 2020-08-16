@@ -27,16 +27,6 @@ if you're using windows and want to build this iso yourself there is no problem,
 
 5. run the command `docker run -ti ubuntu`
 
-6. run the command `apt-get update`
+6. run the command `apt-get update && apt-get install git -y && apt-get install sudo -y && git clone https://github.com/donno2048/CITUR-L.git && cd CITUR-L/ && yes | sudo bash ./init.sh`
 
-7. run the command `apt-get install git -y`
-
-8. run the command `apt-get install sudo -y`
-
-9. run the command `git clone https://github.com/donno2048/CITUR-L.git`
-
-10. run the command `cd CITUR-L/`
-
-11. run the command `yes | sudo bash ./init.sh`
-
-12. use some linux commands to send _Rosehip.iso_ to yourself somehow
+7. use some linux commands to send _Rosehip.iso_ to yourself somehow
