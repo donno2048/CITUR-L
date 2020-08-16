@@ -31,4 +31,4 @@ if you're using windows and want to build this iso yourself there is no problem,
 
 see _DOCKER.md_ for details of how to build it from my docker image
 
-<img scr="https://komarev.com/ghpvc/?username=antonkomarev">
+<a src="https://komarev.com/ghpvc/?username=antonkomarev">
