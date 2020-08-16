@@ -6,7 +6,7 @@
 
 4. run the following command in cmd: `docker login` and pass your username and password
 
-5. download and extract the project then open cmd in this folder
+5. download _Dockerfile_ and put it in an empty folder and open there the cmd
 
 6. run the command `docker build -t rose .`
 
