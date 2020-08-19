@@ -1,6 +1,3 @@
 [submodule "Rosehip"]
 	path = Rosehip
 	url = https://github.com/donno2048/Rosehip-L.git
-[submodule "build/buildroot_x86-64"]
-	path = build/buildroot_x86-64
-	url = https://github.com/donno2048/buildroot.git
