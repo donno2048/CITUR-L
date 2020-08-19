@@ -33,5 +33,6 @@ see _DOCKER.md_ for details of how to build it from my docker image
 
 <img width="0px" src="https://komarev.com/ghpvc/?username=antonkomarev">
 
+## Fun fact:
 
-I started working on it in the beginning of 2020 even before I joined GitHub and kept adding at least 100 commits a day until it went stable
+I started working on this project in the beginning of 2020 even before I joined GitHub and kept adding at least 100 commits a day until it went stable in 17/8/2020 :grin:
