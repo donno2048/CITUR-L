@@ -35,4 +35,4 @@ see _DOCKER.md_ for details of how to build it from my docker image
 
 ## Fun fact:
 
-I started working on this project in the beginning of 2020 even before I joined GitHub and kept adding at least 100 commits a day until it went stable in 17/8/2020 :grin:
+I started working on this project in the beginning of 2020 even before I joined GitHub and kept adding at least 100 commits a day until it went stable in 19/8/2020 :grin:
