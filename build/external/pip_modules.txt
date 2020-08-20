@@ -4,4 +4,3 @@ Js2Py
 selenium
 chromedriver-autoinstaller
 html2text
-opencv-python
