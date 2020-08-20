@@ -11,8 +11,5 @@ sudo apt-get install wget
 sudo apt-get install cpio
 sudo apt-get install rsync
 sudo apt-get install python3
-sudo apt-get install python3-pip
-python3 -m pip install --upgrade pip
-pip3 install scikit-build
 cd build/
 sudo env FORCE_UNSAFE_CONFIGURE=1 bash ./build.sh
