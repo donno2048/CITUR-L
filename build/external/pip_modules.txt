@@ -1,7 +1,6 @@
 pyttsx3
 pygame-gui
 Js2Py
-selenium
 chromedriver-autoinstaller
 html2text
 requests
