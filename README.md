@@ -25,7 +25,7 @@ if you're using windows and want to build this iso yourself there is no problem,
 
 5. run the command `docker run -ti ubuntu`
 
-6. run the command `apt-get update && apt-get install tzdata -y && apt-get install git -y && apt-get install sudo -y && git clone https://github.com/donno2048/CITUR-L.git && cd CITUR-L/ && yes | sudo bash ./init.sh` it might ask you to enter your location and after a long time to enter your [pygame](https://www.pygame.org/) username and password you may pass the pygame acount I created for this: username: CITURL password: mypythoniso
+6. run the command `apt-get update && DEBIAN_FRONTEND="noninteractive" apt-get install tzdata -y && apt-get install git -y && apt-get install sudo -y && git clone https://github.com/donno2048/CITUR-L.git && cd CITUR-L/ && yes | sudo bash ./init.sh` it might ask you to enter your [pygame](https://www.pygame.org/) username and password you may pass the pygame acount I created for this: username: CITURL password: mypythoniso
 
 (to paste in the docker you need to right-click)
 
