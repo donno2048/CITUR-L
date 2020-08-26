@@ -11,5 +11,9 @@ sudo apt-get install wget
 sudo apt-get install cpio
 sudo apt-get install rsync
 sudo apt-get install python3
+mv build/external/overlay/usr/share/Rosehip/startup.py build/external/overlay/usr/share
+yes | rm -r build/external/overlay/usr/share/Rosehip
+cp Rosehip build/external/overlay/usr/share/Rosehip
+mv build/external/overlay/usr/share/startup.py build/external/overlay/usr/share/Rosehip
 cd build/
 sudo env FORCE_UNSAFE_CONFIGURE=1 bash ./build.sh
