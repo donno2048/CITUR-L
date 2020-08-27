@@ -15,6 +15,16 @@ in the iso run the word rosehip to open the desktop
 
 1. download and install [docker desktop](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
+(if you're using some versions of windows for example home it won't open you just need to run:
+```bash
+pushd "%~dp0"
+dir /b %SystemRoot%\servicing\Packages\*Hyper-V*.mum >hyper-v.txt
+for /f %%i in ('findstr /i . hyper-v.txt 2^>nul') do dism /online /norestart /add-package:"%SystemRoot%\servicing\Packages\%%i"
+del hyper-v.txt
+Dism /online /enable-feature /featurename:Microsoft-Hyper-V -All /LimitAccess /ALL
+```
+in command promp administrator)
+
 2. to check everything is set try running docker desktop
 
 3. create an account at [docker-hub](https://hub.docker.com/signup)
