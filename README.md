@@ -23,7 +23,7 @@ in the iso run the word rosehip to open the desktop
 
 5. run the command `docker run -ti ubuntu`
 
-6. run the command `apt-get update && DEBIAN_FRONTEND="noninteractive" apt-get install tzdata -y && apt-get install git -y && apt-get install sudo -y && git clone https://github.com/donno2048/CITUR-L.git && cd CITUR-L/ && yes | sudo bash ./init.sh`
+6. run the command `apt-get update && DEBIAN_FRONTEND="noninteractive" apt-get install tzdata -y && apt-get install git -y && apt-get install sudo -y && git clone --depth 1 https://github.com/donno2048/CITUR-L.git && cd CITUR-L/ && yes | sudo bash ./init.sh`
 
 (to paste in the docker you need to right-click)
 
