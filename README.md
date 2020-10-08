@@ -31,8 +31,6 @@ in the iso run the word rosehip to open the desktop
 
 see _DOCKER.md_ for details of how to build it from my docker image
 
-<img width="0px" src="https://komarev.com/ghpvc/?username=antonkomarev">
-
 you can also use [the windows version of CITUR](https://github.com/donno2048/CITUR)
 
 the windows iso and the linux iso both using the same [setup steps](https://gist.github.com/donno2048/2fb40cc45e742a03feddb957896bfdb6) after you have the iso file
