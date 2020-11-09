@@ -11,5 +11,6 @@ sudo apt-get install wget
 sudo apt-get install cpio
 sudo apt-get install rsync
 sudo apt-get install python3
+git clone https://github.com/donno2048/Rosehip-L.git
 cd build/
 sudo env FORCE_UNSAFE_CONFIGURE=1 bash ./build.sh
