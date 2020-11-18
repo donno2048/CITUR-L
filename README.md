@@ -1,17 +1,17 @@
 # CITUR
 create iso to use [the linux version of Rosehip](https://github.com/donno2048/Rosehip-L)
 
-## In linux:
+<details>
+<summary>In linux</summary>
+
 run init.sh to create the iso using `yes | sudo bash ./init.sh`
 
 if you get `bash: sudo: command not found` error you just need to run `apt-get install sudo`
 
 make sure you are using internet which doesn't require any special certificate.
-
-## Open the desktop app from the interpreter of the iso:
-in the iso run the word rosehip to open the desktop
-
-## In windows:
+</details>
+<details>
+<summary>In windows</summary>
 
 1. download and install [docker desktop](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 
@@ -30,6 +30,12 @@ in the iso run the word rosehip to open the desktop
 7. use some linux commands to send _Rosehip.iso_ to yourself somehow (it's under the _build_ folder)
 
 see _DOCKER.md_ for details of how to build it from my docker image
+</details>
+
+## Open the desktop app from the interpreter of the iso:
+in the iso run the word rosehip to open the desktop
+
+
 
 you can also use [the windows version of CITUR](https://github.com/donno2048/CITUR) corresponding to [the windows version of Rosehip](https://github.com/donno2048/Rosehip)
 
