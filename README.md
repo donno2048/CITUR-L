@@ -32,7 +32,7 @@ make sure you are using internet which doesn't require any special certificate.
 see _DOCKER.md_ for details of how to build it from my docker image
 </details>
 
-in the iso run the word rosehip to open the desktop
+in the iso run the word `start()` to open the desktop
 
 you can also use [the windows version of CITUR](https://github.com/donno2048/CITUR) corresponding to [the windows version of Rosehip](https://github.com/donno2048/Rosehip)
 
