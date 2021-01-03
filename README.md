@@ -3,6 +3,10 @@ create iso to use [the linux version of Rosehip](https://github.com/donno2048/Ro
 
 <details>
 <summary>In linux</summary>
+  
+clone it with the command: `git clone https://github.com/donno2048/CITUR-L --depth 1`
+  
+cd to the folder
 
 run init.sh to create the iso using `yes | sudo bash ./init.sh`
 
