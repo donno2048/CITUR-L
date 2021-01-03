@@ -7,7 +7,7 @@ cd ..
 chmod 777 -R buildroot_x86-64/
 chmod 777 -R external/
 cd buildroot_x86-64
-make
+make||make||make
 cd $OS
 cp buildroot_x86-64/output/images/rootfs.iso9660 Rosehip.iso
 echo "DONE"
