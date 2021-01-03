@@ -3,6 +3,10 @@ create iso to use [the linux version of Rosehip](https://github.com/donno2048/Ro
 
 <details>
 <summary>In linux</summary>
+  
+clone it with the command: `git clone https://github.com/donno2048/CITUR-L --depth 1`
+  
+cd to the folder
 
 run init.sh to create the iso using `yes | sudo bash ./init.sh`
 
@@ -32,7 +36,7 @@ make sure you are using internet which doesn't require any special certificate.
 see _DOCKER.md_ for details of how to build it from my docker image
 </details>
 
-in the iso run the word rosehip to open the desktop
+in the iso run the word "rosehip" to open the desktop
 
 you can also use [the windows version of CITUR](https://github.com/donno2048/CITUR) corresponding to [the windows version of Rosehip](https://github.com/donno2048/Rosehip)
 
