@@ -4,7 +4,7 @@ create iso to use [the linux version of Rosehip](https://github.com/donno2048/Ro
 <details>
 <summary>In linux</summary>
   
-clone it with the command: `git clone https://github.com/donno2048/CITUR-L --depth 1`
+clone it with the command: `git clone https://github.com/donno2048/CITUR-L`
   
 cd to the folder
 
